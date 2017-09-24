@@ -7,4 +7,5 @@ Using sqlite.swift library to run sql operations and query
 
 Saved Data:
 
-![Saved Data] (https://github.com/amitr1983/sqlite_iOS/blob/master/ScreenShot/sql_data.png)
+![Saved Data](https://github.com/amitr1983/sqlite_iOS/blob/master/ScreenShot/sql_data.png)
+
