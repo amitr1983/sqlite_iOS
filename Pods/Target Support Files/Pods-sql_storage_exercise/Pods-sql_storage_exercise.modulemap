@@ -1,0 +1,6 @@
+framework module Pods_sql_storage_exercise {
+  umbrella header "Pods-sql_storage_exercise-umbrella.h"
+
+  export *
+  module * { export * }
+}
